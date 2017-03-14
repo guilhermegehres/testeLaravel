@@ -1,7 +1,8 @@
 Utlização
 	Criar um schema MySQL chamado 'teste' e executar o dump contido na pasta /dump.
 	Na raiz do projeto executar o comando 'php artisan serve',
-	será cirado um servidor local na porta 8000 'localhost:8000' 
+	será cirado um servidor local na porta 8000 'localhost:8000'. 
+	Acessando a URL 'localhost:8000/' será possível vizualizar a view do teste(incompleta).
 
 ---------------------
 API - Back-end
